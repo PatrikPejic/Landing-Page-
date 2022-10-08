@@ -58,6 +58,7 @@ body {
   margin-bottom: 15px;
 }
 
+.action-sign-up-button,
 .sign-up-button { 
   background-color: #3882F6;
   color: white;
@@ -150,5 +151,40 @@ body {
 .quoter { 
   font-weight: bold;
   align-self: flex-end;
+}
+
+.bottom-section { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 80px 80px;
+}
+
+.container { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 40px 80px;
+  
+  background-color: #3882F6;
+  color:#F9FAF8
+}
+
+.left { 
+  margin-right: 80px;
+}
+
+.title { 
+  font-weight: bold;
+}
+
+.right { 
+  display: flex;
+}
+
+.action-sign-up-button {
+  border-color: #F9FAF8;
+  border-width: 2px;
 }
 
