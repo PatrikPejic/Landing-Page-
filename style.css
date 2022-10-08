@@ -188,3 +188,14 @@ body {
   border-width: 2px;
 }
 
+.footer { 
+  background-color: #1F2937;
+  color:#F9FAF8; 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 30px 50px;
+}
+
